@@ -1,0 +1,30 @@
+.heading-1{
+    color: tomato;background-color: teal;text-align: center;
+}
+span{
+    color: yellowgreen;
+}
+.first-paragraph{
+    border: tomato solid 20px;
+    border-radius: 10px;margin-top: 10px;margin-left: 10%;margin-right: 10%;padding-left: 5%;
+    padding-right: 5%;height: auto;padding-top: 25px;
+}
+.second-para{
+    color: tomato;
+}
+.list-item span{
+    color: seagreen;
+}
+#list{
+    border: slateblue double 15px; border-radius: 10px; margin-left: 5%;
+    margin-right: 5%;padding-left: 5%;
+}
+.third-para{
+    background-color: turquoise;
+}
+#last-para{
+    background-color:gray ;color: red;text-align: center;
+}
+#last-para .a{
+    color: royalblue;
+}
